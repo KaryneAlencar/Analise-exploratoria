@@ -30,6 +30,7 @@ Explorar como diferentes características dos imóveis, como área, número de c
 2. Instale as dependências necessárias:
    ```bash
    pip install pandas matplotlib seaborn
+3. Abra o arquivo projeto3.ipynb em um ambiente Jupyter para explorar a análise completa.
    
 ## Conclusões
 Os resultados obtidos neste projeto são úteis para compreender como características específicas de um imóvel influenciam o mercado de locação, além de fornecer uma visão sobre o mercado em cidades específicas do Brasil.
