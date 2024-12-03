@@ -28,6 +28,7 @@ Explorar como diferentes características dos imóveis, como área, número de c
    ```bash
    git clone https://github.com/KaryneAlencar/projeto2-alugueis.git
 2. Instale as dependências necessárias:
+   ```bash
    pip install pandas matplotlib seaborn
    
 ## Conclusões
